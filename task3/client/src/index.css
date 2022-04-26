@@ -20,3 +20,7 @@ code {
   flex-direction: row;
   margin-left: 10px;
 }
+
+.container { 
+  margin-top: 1rem;
+}
